@@ -1,7 +1,7 @@
 @import url();
 
 body {
-  background: #fefae0f6;
+  background: #fefae0e7;
   color: #575f7de2;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
@@ -19,6 +19,7 @@ h1,h2,h3 {
   font-family: 'Quicksand', sans-serif;
   color: #48536f;
   font-size: 24px;
+
 }
 
 a {
@@ -48,7 +49,7 @@ a:hover {
 }
 
 .profile-photo {
-  border-radius: 55px;
+  border-radius: 45px;
   border: 2px solid rgba( 233, 237, 201, 0.7);
 }
 
