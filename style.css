@@ -51,6 +51,7 @@ a:hover {
 .profile-photo {
   border-radius: 45px;
   border: 2px solid rgba( 233, 237, 201, 0.7);
+  opacity: 0.9;
 }
 
 .list-inline > li {
